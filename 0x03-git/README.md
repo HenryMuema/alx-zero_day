@@ -1,2 +1,1 @@
-Intro to git
-What an exciting way to strat coding
+What an exciting way to start coding
